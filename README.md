@@ -10,7 +10,7 @@ Learning depth information from image is a crucial topic in computer vision.  It
 
 ## Relevant papers for depth estimation/prediction
 
-1. Depth map prediction networks:
+Depth map prediction networks:
 
 | Paper | Description |
 | --- | --- |
@@ -20,9 +20,16 @@ Learning depth information from image is a crucial topic in computer vision.  It
 | [Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture](https://arxiv.org/abs/1411.4734) | State-of-art model on NYUv2 |
 | [Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373) | Another state-of-art model on NYUv2 using ResNet |
 
-2. Global vs Local:
+Global vs Local:
 
 | Paper | Description |
 | --- | --- |
-| [Non-lical Neural Networks](https://arxiv.org/abs/1711.07971) | Layer structure designed for spatial/time interactions or correlations |
-| [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719) | Proposed Global Convolutional Network for contradictory between classification and localization |
+| [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) | Layer structure designed for spatial/time interactions or correlations |
+| [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719) | Proposed Global Convolutional Network for contradictory between classification and localization 
+
+BerHu loss inspiration
+
+| Paper | Description |
+| --- | --- |
+| [A unified approach to model selection and sparse recovery using regularized least squares](https://arxiv.org/abs/0905.3573) | A smooth homotopy function between $L_0$ and $L_1$ norm as penalty |
+
