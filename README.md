@@ -10,6 +10,7 @@ Learning depth information from image is a crucial topic in computer vision.  It
 
 ## Relevant papers for depth estimation/prediction
 
+1. Depth map prediction networks:
 | Paper | Description |
 | --- | --- |
 | [Learning Depth from Single Images with Deep Neural Network Embedding Focal Length](https://arxiv.org/abs/1803.10039) | Fully supervised method considering varying focal length |
@@ -17,3 +18,10 @@ Learning depth information from image is a crucial topic in computer vision.  It
 | [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://arxiv.org/abs/1406.2283) | Coarse network + fine network (prior work for state-of-art on NYUv2) |
 | [Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture](https://arxiv.org/abs/1411.4734) | State-of-art model on NYUv2 |
 | [Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373) | Another state-of-art model on NYUv2 using ResNet |
+
+2. Global vs Local:
+| Paper | Description |
+| --- | --- |
+| [Non-lical Neural Networks](https://arxiv.org/abs/1711.07971) | Layer structure designed for spatial/time interactions or correlations |
+| [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network
+](https://arxiv.org/abs/1703.02719) | Proposed Global Convolutional Network for contradictory between classification and localization |
