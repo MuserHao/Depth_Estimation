@@ -1,6 +1,6 @@
 # Depth_Estimation
 
-Learning depth information from image is a crucial topic in computer vision.  It is also a problem under the general topic [Geometry learning](http://geometricdeeplearning.com/)  This project meaned to explore and build machine learning model that can output depth or relative depth from input image either in a supervised or unsupervised manner.
+Learning depth information from image is a crucial topic in computer vision.  It is also a problem under the general topic [Geometry learning](http://geometricdeeplearning.com/)  This project target to explore and build machine learning model that can output depth or relative depth from input image either in a supervised or unsupervised manner.
 
 
 ## Benchmark datasets
