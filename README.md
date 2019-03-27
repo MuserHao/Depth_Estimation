@@ -18,7 +18,7 @@ Depth map prediction networks:
 | [Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image](https://arxiv.org/abs/1709.07492) | Depth prediction with sparse depth samples augmentation |
 | [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://arxiv.org/abs/1406.2283) | Coarse network + fine network (prior work for SOA on NYUv2) |
 | [Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture](https://arxiv.org/abs/1411.4734) | SOA model on NYUv2 in 2016|
-| [Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373) | SOA FRCN on NYUv2 using ResNet in 2016 |
+| [Deeper Depth Prediction with Fully Convolutional Residual Networks](https://arxiv.org/abs/1606.00373) | SOA model FRCN on NYUv2 using ResNet in 2016 |
 | [Deep Ordinal Regression Network for Monocular Depth Estimation](https://arxiv.org/abs/1806.02446) | SOA model DORN on NYUv2 using ResNet in 2018 & 1st prize in Robust Vision Challange 2018 |
 
 Global vs Local:
@@ -28,7 +28,7 @@ Global vs Local:
 | [Non-local Neural Networks](https://arxiv.org/abs/1711.07971) | Layer structure designed for spatial/time interactions or correlations |
 | [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719) | Proposed Global Convolutional Network for contradictory between classification and localization 
 
-BerHu loss inspiration
+BerHu loss inspiration:
 
 | Paper | Description |
 | --- | --- |
