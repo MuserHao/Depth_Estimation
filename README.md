@@ -40,6 +40,6 @@ Modeling for Images (texture):
 | Paper | Description |
 | --- | --- |
 | [Learning FRAME Models Using CNN Filters](https://arxiv.org/abs/1509.08379) | Markov random field model |
-|[A Theory of Generative ConvNet](https://arxiv.org/abs/1602.03264)|Generative CNN|
-|||
+|[A Theory of Generative ConvNet](https://arxiv.org/abs/1602.03264)|Theory and Intuitions of Generative CNN|
+|[Generative Modeling of Convolutional Neural Networks](https://arxiv.org/abs/1412.6296)|Generative CNN|
 
