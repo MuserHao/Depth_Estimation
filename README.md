@@ -34,3 +34,12 @@ BerHu loss inspiration:
 | --- | --- |
 | [A unified approach to model selection and sparse recovery using regularized least squares](https://arxiv.org/abs/0905.3573) | A smooth homotopy function between $L_0$ and $L_1$ norm as penalty |
 
+
+Modeling:
+
+| Paper | Description |
+| --- | --- |
+| [Learning FRAME Models Using CNN Filters](https://arxiv.org/abs/1509.08379) | Markov random field model |
+|[A Theory of Generative ConvNet](https://arxiv.org/abs/1602.03264)|Generative CNN|
+|||
+
