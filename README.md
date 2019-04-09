@@ -35,7 +35,7 @@ BerHu loss inspiration:
 | [A unified approach to model selection and sparse recovery using regularized least squares](https://arxiv.org/abs/0905.3573) | A smooth homotopy function between $L_0$ and $L_1$ norm as penalty |
 
 
-Modeling:
+Modeling for Images (texture):
 
 | Paper | Description |
 | --- | --- |
