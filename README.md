@@ -42,6 +42,5 @@ Modeling for Images (texture):
 | [Learning FRAME Models Using CNN Filters](https://arxiv.org/abs/1509.08379) | Markov random field model |
 |[A Theory of Generative ConvNet](https://arxiv.org/abs/1602.03264)|Theory and Intuitions of Generative CNN|
 |[Generative Modeling of Convolutional Neural Networks](https://arxiv.org/abs/1412.6296)|Generative modeling CNN|
-|[Filters, Random Fields and Maximum Entropy (FRAME): Towards a Unified Theory for Texture Modeling
-](https://link.springer.com/article/10.1023/A:1007925832420)|FRAME model|
+|[Filters, Random Fields and Maximum Entropy (FRAME): Towards a Unified Theory for Texture Modeling](https://link.springer.com/article/10.1023/A:1007925832420)|FRAME model|
 
