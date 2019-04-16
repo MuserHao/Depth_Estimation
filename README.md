@@ -43,5 +43,6 @@ Modeling for Images (texture):
 |[A Theory of Generative ConvNet](https://arxiv.org/abs/1602.03264)|Theory and Intuitions of Generative CNN|
 |[Generative Modeling of Convolutional Neural Networks](https://arxiv.org/abs/1412.6296)|Generative modeling CNN|
 |[Filters, Random Fields and Maximum Entropy (FRAME): Towards a Unified Theory for Texture Modeling](https://link.springer.com/article/10.1023/A:1007925832420)|FRAME model for texture|
-|[Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields](https://arxiv.org/abs/1502.07411)|CRF Model of Depth Y given Image X|
+|[Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields](https://arxiv.org/abs/1502.07411)|CRF Model with CNN for Depth Y given Image X|
+|[Deep Convolutional Neural Fields for Depth Estimation from a Single Image](https://arxiv.org/abs/1411.6387)|Bascally same work on CRF model|
 
