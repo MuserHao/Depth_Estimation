@@ -48,9 +48,7 @@ Modeling for Images (texture):
 |[Filters, Random Fields and Maximum Entropy (FRAME): Towards a Unified Theory for Texture Modeling](https://link.springer.com/article/10.1023/A:1007925832420)|FRAME model for texture|
 |[Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields](https://arxiv.org/abs/1502.07411)|CRF Model with CNN for Depth Y given Image X|
 |[Deep Convolutional Neural Fields for Depth Estimation from a Single Image](https://arxiv.org/abs/1411.6387)|Basically same work on CRF model|
-|[Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation
-](https://arxiv.org/abs/1704.02157)|CRF defined acorss multi-scale feature with attention gates inference by mean field approx|
-|[Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation
-](https://arxiv.org/abs/1803.11029)|Structured attention model jointly learned with CRF. Update: mean field approx|
+|[Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation](https://arxiv.org/abs/1704.02157)|CRF defined acorss multi-scale feature with attention gates inference by mean field approx|
+|[Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation](https://arxiv.org/abs/1803.11029)|Structured attention model jointly learned with CRF. Update: mean field approx|
 
 
