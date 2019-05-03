@@ -53,3 +53,4 @@ Modeling for Images (texture):
 |[Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation
 ](https://arxiv.org/abs/1803.11029)|Structured attention model jointly learned with CRF. Update: mean field approx|
 
+
