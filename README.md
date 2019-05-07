@@ -55,5 +55,4 @@ Energy based model (EBM) learning algorithm:
 
 | Paper | Description |
 | --- | --- |
-| [On Learning Non-Convergent Short-Run MCMC Toward Energy-Based Model
-](https://arxiv.org/abs/1904.09770) |Learning EBM using MCMC approach for approximating gradient|
+| [On Learning Non-Convergent Short-Run MCMC Toward Energy-Based Model](https://arxiv.org/abs/1904.09770) |Learning EBM using MCMC approach for approximating gradient|
