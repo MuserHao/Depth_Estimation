@@ -51,4 +51,9 @@ Modeling for Images (texture):
 |[Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation](https://arxiv.org/abs/1704.02157)|CRF defined acorss multi-scale feature with attention gates inference by mean field approx|
 |[Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation](https://arxiv.org/abs/1803.11029)|Structured attention model jointly learned with CRF. Update: mean field approx|
 
+Energy based model (EBM) learning algorithm:
 
+| Paper | Description |
+| --- | --- |
+| [On Learning Non-Convergent Short-Run MCMC Toward Energy-Based Model
+](https://arxiv.org/abs/1904.09770) |Learning EBM using MCMC approach for approximating gradient|
