@@ -57,3 +57,4 @@ On learning Energy based model (EBM):
 | --- | --- |
 | [On Learning Non-Convergent Short-Run MCMC Toward Energy-Based Model](https://arxiv.org/abs/1904.09770) |Learning EBM using MCMC approach for approximating gradient|
 |[Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126)|Energy based GAN, generator as a transformation sampler and discriminator as a energy function evaluator|
+|[Cooperative Learning of Energy-Based Model and Latent Variable Model via MCMC Teaching](http://www.stat.ucla.edu/~ywu/CoopNets/doc/CoopNets_AAAI.pdf)|Jointly learning an EBM with a latent variable model|
