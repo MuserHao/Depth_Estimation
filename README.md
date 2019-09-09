@@ -31,14 +31,14 @@ Global vs Local:
 
 
 
-BerHu loss inspiration:
+BerHu loss:
 
 | Paper | Description |
 | --- | --- |
 | [A unified approach to model selection and sparse recovery using regularized least squares](https://arxiv.org/abs/0905.3573) | A smooth homotopy function between $L_0$ and $L_1$ norm as penalty |
 
 
-Modeling for Images (texture):
+Image Models (texture):
 
 | Paper | Description |
 | --- | --- |
@@ -51,7 +51,7 @@ Modeling for Images (texture):
 |[Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation](https://arxiv.org/abs/1704.02157)|CRF defined acorss multi-scale feature with attention gates inference by mean field approx|
 |[Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation](https://arxiv.org/abs/1803.11029)|Structured attention model jointly learned with CRF. Update: mean field approx|
 
-On learning Energy based model (EBM):
+Learning Energy based model (EBM):
 
 | Paper | Description |
 | --- | --- |
@@ -59,3 +59,12 @@ On learning Energy based model (EBM):
 |[Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126)|Energy based GAN, generator as a transformation sampler and discriminator as a energy function evaluator|
 |[Cooperative Learning of Energy-Based Model and Latent Variable Model via MCMC Teaching](http://www.stat.ucla.edu/~ywu/CoopNets/doc/CoopNets_AAAI.pdf)|Jointly learning an EBM with a latent variable model|
 |[Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inference Model](https://arxiv.org/pdf/1812.10907.pdf)|Model 3 different joint distribution to avoid MCMC sampling|
+
+
+Learning Density (including EBM) with other divergences:
+
+| Paper | Description |
+| --- | --- |
+| [A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation](https://arxiv.org/abs/1602.03253) |Kernelized Stein Discrepancy (KSD) as a computable measure of discrepancy between a sample of an unnormalized distribution|
+|[Estimation of Non-Normalized Statistical Models by Score Matching](http://www.jmlr.org/papers/v6/hyvarinen05a.html)|Proposeed learning unormalized models by minimizing the expected squared distance between the gradient of the log-density from the model and the observed data.|
+
