@@ -31,6 +31,7 @@ Global vs Local:
 
 
 
+
 BerHu loss:
 
 | Paper | Description |
@@ -68,3 +69,4 @@ Learning Density (including EBM) with other divergences:
 | [A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation](https://arxiv.org/abs/1602.03253) |Kernelized Stein Discrepancy (KSD) as a computable measure of discrepancy between a sample of an unnormalized distribution|
 |[Estimation of Non-Normalized Statistical Models by Score Matching](http://www.jmlr.org/papers/v6/hyvarinen05a.html)|Proposeed learning unormalized models by minimizing the expected squared distance between the gradient of the log-density from the model and the observed data.|
 |[Information criteria for non-normalized models](https://arxiv.org/abs/1905.05976)|Information criteria for noise contrastive estimation (NCE) and score matching.|
+|[Exponential Family Estimation via Adversarial Dynamics Embedding](https://arxiv.org/abs/1904.12083)|"We consider the primal-dual view of the MLE for the kinectics augmented model, which naturally introduces an adversarial dual sampler."|
