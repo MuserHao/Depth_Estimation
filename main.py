@@ -120,6 +120,8 @@ def main():
             runner.train()
         else:
             runner.test()
+            # for inpainting:
+            # runner.test_inpainting()
     except:
         logging.error(traceback.format_exc())
 
