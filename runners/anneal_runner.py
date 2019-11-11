@@ -508,9 +508,8 @@ class AnnealRunner():
             for i, sample in enumerate(tqdm.tqdm(all_depth_samples)):
                 sample = sample.view(400, self.config.data.channels - 3, self.config.data.image_size,
                                      self.config.data.image_size)
-                print(sample.shape)
-                print(depth.shape)
-                sample = torch.cat((depth, sample), 0)
+
+                sample = torch.cat((depth.to('cpu'), sample), 0)
 
                 depth_grid = make_grid(sample, nrow=20)
                 if i % 10 == 0:
