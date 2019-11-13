@@ -61,6 +61,7 @@ Learning Energy based model (EBM) and Score Matching (SM):
 |[Cooperative Learning of Energy-Based Model and Latent Variable Model via MCMC Teaching](http://www.stat.ucla.edu/~ywu/CoopNets/doc/CoopNets_AAAI.pdf)|Jointly learning an EBM with a latent variable model|
 |[Divergence Triangle for Joint Training of Generator Model, Energy-based Model, and Inference Model](https://arxiv.org/pdf/1812.10907.pdf)|Model 3 different joint distribution to avoid MCMC sampling|
 |[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)|Learning data generative score function using Score Matching and generate samples by Langevin Dynamics|
+|[A Connection Between Score Matching and Denoising Autoencoders](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)|Denoising Score Matching objective which can avoid caculate Hessian diagonal elements in Score Matching|
 
 
 Learning Density (including EBM) with other divergences:
