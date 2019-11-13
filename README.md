@@ -72,3 +72,4 @@ Implicit Learning Density with Score Matching (SM):
 |[A Connection Between Score Matching and Denoising Autoencoders](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)|Denoising Score Matching (DSM) objective which can avoid caculate Hessian diagonal elements in Score Matching|
 |[Estimation of Non-Normalized Statistical Models by Score Matching](http://www.jmlr.org/papers/v6/hyvarinen05a.html)|Score Matching(SM)|
 |[Information criteria for non-normalized models](https://arxiv.org/abs/1905.05976)|Information criteria for noise contrastive estimation (NCE) and score matching.|
+|[Deep Energy Estimator Networks](https://arxiv.org/abs/1805.08306)|Learning Energy function using Score Matching (SM)|
