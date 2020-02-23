@@ -73,3 +73,13 @@ Implicit Learning Density with Score Matching (SM):
 |[Estimation of Non-Normalized Statistical Models by Score Matching](http://www.jmlr.org/papers/v6/hyvarinen05a.html)|Score Matching(SM)|
 |[Information criteria for non-normalized models](https://arxiv.org/abs/1905.05976)|Information criteria for noise contrastive estimation (NCE) and score matching.|
 |[Deep Energy Estimator Networks](https://arxiv.org/abs/1805.08306)|Learning Energy function using Score Matching (SM)|
+
+Satellite imagery data and biomass estimation:
+
+| Paper | Description |
+| --- | --- |
+|[Landsat-8: Science and product vision for terrestrial global change research](https://www.sciencedirect.com/science/article/pii/S003442571400042X)|Landsat-8 Satellite imagery|
+|[An above-ground biomass map of African savannahs and woodlands at 25 m resolution derived from ALOS PALSAR](https://www.sciencedirect.com/science/article/pii/S0034425717306053)|Estimation of above ground biomass over the whole Africa at a 25 m resolution.|
+|[Biomass estimation with high resolution satellite images: A case study of Quercus rotundifolia](https://www.sciencedirect.com/science/article/pii/S0924271614002780)|Biomass estimation with high resolution satellite images: A case study of Quercus rotundifolia|
+
+
